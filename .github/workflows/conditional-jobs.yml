@@ -1,4 +1,4 @@
-name: Events Demo 1
+name: Conditional jobs
 on:
   pull_request:
     types:
